@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="TPRI_TJL.TPRITJL_UserNavigation_RegressionTest">
+        <methods>
+          <include name="getExcel"/>
+          <include name="setUp"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- TPRI_TJL.TPRITJL_UserNavigation_RegressionTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
